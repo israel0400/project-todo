@@ -1,11 +1,14 @@
-# Webpack Starter
+# Proyecto TODO
 
-Proyecto base para aplicaciones con webpack
+Proyecto TODO con webpack
 
 ### Notas:
 
 Install
 ...
+
 npm install
+
 npm run build
+
 ...
